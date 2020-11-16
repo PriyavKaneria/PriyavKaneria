@@ -1,4 +1,5 @@
 ### A Subtle Welcome by [Priyav K Kaneria]()👋
+![](https://komarev.com/ghpvc/?username=PriyavKaneria&color=green)
 
 Hey, I am High School student of K. D. Ambani Vidyamandir, Jamnagar, Gujarat. I'm a Web🕸 developer armed with an intermediate knowledge of Python, [Django](https://www.djangoproject.com/), [FastApi](https://fastapi.tiangolo.com/); along with HTML, CSS, Javascript, jQuery for frontend portion. I'm currently a Web Development intern at Aztlan Pvt. Ltd.
 
@@ -36,7 +37,7 @@ Hey, I am High School student of K. D. Ambani Vidyamandir, Jamnagar, Gujarat. I'
 <!--
 **priyavkaneria/priyavkaneria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<a href="https://i.imgur.com/H8dtFcC.gif"><img align="right" src="https://i.imgur.com/H8dtFcC.gif" title="source: imgur.com" /></a>
+<!-- <a href="https://i.imgur.com/H8dtFcC.gif"><img align="right" src="https://i.imgur.com/H8dtFcC.gif" title="source: imgur.com" /></a> -->
 *******
 - 💬 Ask me anything!
      Always ready to help!🤩
