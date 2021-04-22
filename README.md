@@ -20,7 +20,7 @@ priyavkaneria@gmail.com, will try my best to reply within 24 hrs🏁!
 - ⚡ Fun fact: I love playing chess and making games using Unity 3D.
 
 
-![Priyav's github stats](https://github-readme-stats.vercel.app/api?username=priyavkaneria&show_icons=true&hide_border=true&icon_color=5CFF33)
+![Priyav's github stats](https://github-readme-stats.vercel.app/api?username=priyavkaneria&show_icons=true&hide_border=true&icon_color=5CFF33&theme=nord)
 ******
 <!-- **Views:**<br>
 ![Visitor Count](https://profile-counter.glitch.me/priyavkaneria/count.svg) -->
