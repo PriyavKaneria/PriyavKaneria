@@ -1,36 +1,7 @@
 ### A Subtle Welcome by [Priyav K Kaneria]()👋
 ![](https://komarev.com/ghpvc/?username=PriyavKaneria&color=green)
 
-Hey, I am Fresher of Motilal Nehru National Institute of Technology, Allahabad. I'm a Web🕸 developer armed with an intermediate knowledge of Python, [Django](https://www.djangoproject.com/), [FastApi](https://fastapi.tiangolo.com/); along with HTML, CSS, Javascript, jQuery for frontend portion. I'm currently a Software Development intern at Aztlan Pvt. Ltd.
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-
-<!-- icons with padding -->
-
-[1.1]: https://i.imgur.com/W5AgT5S.png?1 (mail icon with padding)
-[2.1]: https://i.imgur.com/ooBsFft.png?1 (telegram icon with padding)
-[3.1]: https://i.imgur.com/ir61YD3.png?1 (Linkedin icon with padding)
-[4.1]: https://i.imgur.com/UUdA2GF.png?1 (Leetcode icon with padding)
-[5.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: priyavkaneria@gmail.com
-[2]: https://www.telegram.com
-[3]: https://www.linkedin.com/in/priyav-k-kaneria/
-[4]: https://leetcode.com/priyavkaneria/
-[5]: https://www.twitter.com
-[6]: http://www.github.com/priyavkaneria
+Hey, I am Fresher of Motilal Nehru National Institute of Technology, Allahabad. I'm a Web🕸 developer armed with an intermediate knowledge of Python, [Django](https://www.djangoproject.com/), [FastApi](https://fastapi.tiangolo.com/); along with HTML, CSS, Javascript, jQuery for frontend portion. I'm currently a Full Stack Software Development intern at Aztlan Pvt. Ltd.
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
@@ -53,3 +24,15 @@ priyavkaneria@gmail.com, will try my best to reply within 24 hrs🏁!
 ******
 <!-- **Views:**<br>
 ![Visitor Count](https://profile-counter.glitch.me/priyavkaneria/count.svg) -->
+
+<hr>
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+
+  <p align="center">
+    <a href="https://twitter.com/priyav_kaneria" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/priyavkaneria/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:priyavkaneria@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+<!--     <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a> -->
+  </p>
+</p>
