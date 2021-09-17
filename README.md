@@ -1,5 +1,4 @@
-### A Subtle Welcome by [Priyav K Kaneria]()👋
-![](https://komarev.com/ghpvc/?username=PriyavKaneria&color=green)
+### A Subtle Welcome by [Priyav K Kaneria](https://priyavkaneria.me)👋
 
 Hey, I am Fresher of Motilal Nehru National Institute of Technology, Allahabad. I'm a Web🕸 developer armed with an intermediate knowledge of Python, [Django](https://www.djangoproject.com/), [FastApi](https://fastapi.tiangolo.com/); along with HTML, CSS, Javascript, jQuery for frontend portion. I'm currently a Full Stack Software Development intern at Aztlan Pvt. Ltd.
 
