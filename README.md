@@ -1,14 +1,34 @@
-### A Subtle Welcome by [Priyav K Kaneria](https://priyavkaneria.me)👋
+### A Subtle Welcome by [Priyav K Kaneria](https://priyavkaneria-resume.netlify.app)👋
 
-Hey, I am Fresher of Motilal Nehru National Institute of Technology, Allahabad. I'm a Web🕸 developer armed with an intermediate knowledge of Python, [Django](https://www.djangoproject.com/), [FastApi](https://fastapi.tiangolo.com/); along with HTML, CSS, Javascript, jQuery for frontend portion. I'm currently a Full Stack Software Development intern at Aztlan Pvt. Ltd.
+Hey, I am Sophomore at Motilal Nehru National Institute of Technology, Allahabad. I'm a Full Stack developer armed with an experienced knowledge of some of the more popular and loved frameworks and languages as below -
+- Backend technologies = FastAPI, Flask, Django, Elixir
+- Frontend technologies = NextJs, ReactJs, Svelte, Alpine, Phoenix
+- DB = PostgreSQL, mySQL, Supabase, Firebase
+- Other mentionable technologies used = RabbitMQ, Pusher, 3rd party OAuth2.0
+*******
+
+<a href="https://i.ibb.co/1fD8JDJ/monkey-working.gif"><img align="right" src="https://i.ibb.co/1fD8JDJ/monkey-working.gif" title="source: stock" /></a>
+### Work Experience -
+
+#### Full Stack Software Development Engineer | Aztlan Pvt. Ltd.
+##### May 2020 – Present
+Project: Main Software of the company and other sold products
+- Developed and Managed 4 complete full stack software in 1yr
+- Contributing in engineering the DevOps, backend and frontend of the software
+
+#### Web Developer | SYMB Technologies
+##### May 2021 – Aug 2021
+Project: Main Software of the company
+- Developed the website for Skillpad.io project
+- Contributed in making 15 screens in 4 days with perfection as per design
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!--
 **priyavkaneria/priyavkaneria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<!-- <a href="https://i.imgur.com/H8dtFcC.gif"><img align="right" src="https://i.imgur.com/H8dtFcC.gif" title="source: imgur.com" /></a> -->
 *******
+<a href="https://i.ibb.co/0snKvYj/cool-computer.gif"><img align="right" src="https://i.ibb.co/0snKvYj/cool-computer.gif" title="source: stock" /></a>
 - 💬 Ask me anything!
      Always ready to help!🤩
 
