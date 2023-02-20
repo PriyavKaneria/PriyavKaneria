@@ -1,20 +1,29 @@
 ### A Subtle Welcome by [Priyav K Kaneria](https://priyavkaneria-resume.netlify.app)👋
 
-Hey, I am Sophomore at Motilal Nehru National Institute of Technology, Allahabad. I'm a Full Stack developer armed with an experienced knowledge of some of the more popular and loved frameworks and languages as below -
+Hey, I am Pre-Final year at Motilal Nehru National Institute of Technology, Allahabad. I'm a Full Stack developer armed with an experienced knowledge of some of the more popular and loved frameworks and languages as below -
 - Backend technologies = FastAPI, Flask, Django, Elixir
 - Frontend technologies = NextJs, ReactJs, Svelte, Alpine, Phoenix
 - DB = PostgreSQL, mySQL, Supabase, Firebase
-- Other mentionable technologies used = RabbitMQ, Pusher, 3rd party OAuth2.0
+- Other mentionable technologies used = Docker, RabbitMQ, Pusher, 3rd party OAuth2.0
 *******
 
 <a href="https://i.ibb.co/1fD8JDJ/monkey-working.gif"><img align="right" src="https://i.ibb.co/1fD8JDJ/monkey-working.gif" title="source: stock" /></a>
 ### Work Experience -
 
+#### Full Stack Software Development Engineer | PureML Inc.
+##### Jul 2022 – Present
+Project: PureML
+- Designed and optimized schema for the application
+- Built complete backend application compatible for CLI and web in FastAPI & Nodejs
+- Managing production deployment
+
 #### Full Stack Software Development Engineer | Aztlan Pvt. Ltd.
-##### May 2020 – Present
-Project: Main Software of the company and other sold products
-- Developed and Managed 4 complete full stack software in 1yr
-- Contributing in engineering the DevOps, backend and frontend of the software
+##### May 2020 – Jun 2022
+Project: Main Software of the company and other products sold
+- Developed 4 products handling Backend (FastAPI, PostgreSQL) & Frontend (NextJs, Svelte, Tailwind CSS).
+- Delivered 3 products as Product lead servicing clients managing DevOps & Frontend-Backend Hosting.
+- Designed database schema, built APIs & integrated with frontend.
+- Hired potential candidates for frontend team of this startup
 
 #### Web Developer | SYMB Technologies
 ##### May 2021 – Aug 2021
