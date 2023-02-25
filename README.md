@@ -1,7 +1,7 @@
 ### A Subtle Welcome by [Priyav K Kaneria](https://priyavkaneria-resume.netlify.app)👋
 
 Hey, I am Pre-Final year at Motilal Nehru National Institute of Technology, Allahabad. I'm a Full Stack developer armed with an experienced knowledge of some of the more popular and loved frameworks and languages as below -
-- Backend technologies = FastAPI, Flask, Django, Elixir
+- Backend technologies = FastAPI, Flask, Django, Elixir, Golang
 - Frontend technologies = NextJs, ReactJs, Svelte, Alpine, Phoenix
 - DB = PostgreSQL, mySQL, Supabase, Firebase
 - Other mentionable technologies used = Docker, RabbitMQ, Pusher, 3rd party OAuth2.0
@@ -14,7 +14,7 @@ Hey, I am Pre-Final year at Motilal Nehru National Institute of Technology, Alla
 ##### Jul 2022 – Present
 Project: PureML
 - Designed and optimized schema for the application
-- Built complete backend application compatible for CLI and web in FastAPI & Nodejs
+- Built complete backend application compatible for CLI and web in FastAPI, Nodejs & Golang
 - Managing production deployment
 
 #### Full Stack Software Development Engineer | Aztlan Pvt. Ltd.
