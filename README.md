@@ -1,6 +1,6 @@
 ### A Subtle Welcome by [Priyav K Kaneria](https://priyavkaneria-resume.netlify.app)👋
 
-Hey, I am Pre-Final year at Motilal Nehru National Institute of Technology, Allahabad. I'm a Full Stack developer armed with an experienced knowledge of some of the more popular and loved frameworks and languages as below -
+Hey, I am a Final year student at Motilal Nehru National Institute of Technology, Allahabad. I'm a Full Stack developer armed with an experienced knowledge of some of the popular and loved frameworks and languages as below -
 - Backend technologies = FastAPI, Flask, Django, Elixir, Golang
 - Frontend technologies = NextJs, ReactJs, Svelte, Alpine, Phoenix
 - DB = PostgreSQL, mySQL, Supabase, Firebase
@@ -9,6 +9,12 @@ Hey, I am Pre-Final year at Motilal Nehru National Institute of Technology, Alla
 
 <a href="https://i.ibb.co/1fD8JDJ/monkey-working.gif"><img align="right" src="https://i.ibb.co/1fD8JDJ/monkey-working.gif" title="source: stock" /></a>
 ### Work Experience -
+
+#### Project Intern | Oracle
+##### May 2023 - Jul 2023
+Project: Oracle Fusion Applications ERP Financials
+- ERP - financials general ledger data analysis
+- Docker test suite deployment, monitoring and debugging dependencies
 
 #### Full Stack Software Development Engineer | PureML Inc.
 ##### Jul 2022 – Present
