@@ -8,7 +8,7 @@ Hey, I am a Final year student at Motilal Nehru National Institute of Technology
 *******
 
 <a href="https://i.ibb.co/1fD8JDJ/monkey-working.gif"><img align="right" src="https://i.ibb.co/1fD8JDJ/monkey-working.gif" title="source: stock" /></a>
-### Work Experience -
+### Work Experience
 
 #### Project Intern | Oracle
 ##### May 2023 - Jul 2023
@@ -61,12 +61,16 @@ priyavkaneria@gmail.com, will try my best to reply within 24 hrs🏁!
 
 <hr>
 <p align="center">
+  <i>Everyone can know, the point is to understand</i>
+     <br/>
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://twitter.com/priyav_kaneria" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/priyavkaneria/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:priyavkaneria@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-<!--     <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a> -->
+     <a target="_blank" href="https://priyavkaneria-resume.netlify.app/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
+     <a target="_blank" href="https://www.linkedin.com/in/PriyavKaneria"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+     <a target="_blank" href="mailto:priyavkaneria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+     <a target="_blank" href="https://medium.com/@priyavkaneria"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+     <a target="_blank" href="https://twitter.com/priyav_kaneria"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+
   </p>
 </p>
