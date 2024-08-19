@@ -1,14 +1,18 @@
 ### A Subtle Welcome by [Priyav K Kaneria](https://priyavkaneria-resume.netlify.app)👋
 
-Hey, I am a Final year student at Motilal Nehru National Institute of Technology, Allahabad. I'm a Full Stack developer armed with an experienced knowledge of some of the popular and loved frameworks and languages as below -
+Hey, I am a Full Stack developer armed with an experienced knowledge of some of the popular and loved frameworks and languages as below -
 - Backend technologies = FastAPI, Flask, Django, Elixir, Golang
-- Frontend technologies = NextJs, ReactJs, Svelte, Alpine, Phoenix
-- DB = PostgreSQL, mySQL, Supabase, Firebase
-- Other mentionable technologies used = Docker, RabbitMQ, Pusher, 3rd party OAuth2.0
+- Frontend technologies = NextJs, ReactJs, Svelte, Alpine, Phoenix, Remix, Jekyll, Preact
+- DB = PostgreSQL, mySQL, Supabase, Firebase, OracleDB
+- Other mentionable technologies used = Docker, WebAssembly, RabbitMQ, Pusher, 3rd party OAuth2.0
 *******
 
 <a href="https://i.ibb.co/1fD8JDJ/monkey-working.gif"><img align="right" src="https://i.ibb.co/1fD8JDJ/monkey-working.gif" title="source: stock" /></a>
 ### Work Experience
+
+#### Applications Developer | Oracle
+##### July 2024 - Present
+Project: Oracle Fusion Applications ERP
 
 #### Project Intern | Oracle
 ##### May 2023 - Jul 2023
@@ -17,7 +21,7 @@ Project: Oracle Fusion Applications ERP Financials
 - Docker test suite deployment, monitoring and debugging dependencies
 
 #### Full Stack Software Development Engineer | PureML Inc.
-##### Jul 2022 – Present
+##### Jul 2022 – July 2024
 Project: PureML
 - Designed and optimized schema for the application
 - Built complete backend application compatible for CLI and web in FastAPI, Nodejs & Golang
