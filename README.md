@@ -31,7 +31,7 @@ I don't restrict myself to a single domain. Instead, I tend to build projects th
 I made myself a cool timeline that people loved. So I made a SaaS for everyone to make cool timelines for free - githubtimeline.com\
 Here is my timeline -
 
-![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/gt_N2E4Y2Vk_mk6zdkug?view=range&theme=dark)
+![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/gt_N2E4Y2Vk_mk6zdkug?view=range&theme=retro)
 
 ---
 
@@ -52,4 +52,4 @@ I am always open to discussing technology, ideas, life and games.
 
 ******
 
-![Priyav's github stats](https://github-readme-stats.vercel.app/api?username=priyavkaneria&show_icons=true&hide_border=true&icon_color=5CFF33&theme=radical&hide_rank=true)
+![GitHub Stats](https://www.githubtimeline.com/api/embed/stats/gt_N2E4Y2Vk_mk6zdkug?theme=retro)
